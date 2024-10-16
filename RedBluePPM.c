@@ -3,7 +3,8 @@
 /* 
  *   This is a c program to create a red and blue plain pixel map.
  *   Usage: 
- * 
+ *
+ * ive added a new line to this file
  *   RedBluePPM OutFileName numRows numCols
  * 
  *   Here our program takes in an outfile name, and two arguments for
